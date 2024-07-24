@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Tropical Paradise Resort",
+    "image": "https://cdn.pixabay.com/photo/2020/03/19/04/58/coconut-trees-4946270_1280.jpg",
+    "description": "Escape to the ultimate tropical paradise retreat with pristine beaches, lush greenery, and luxurious accommodations.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Pacific Ocean",
+    "category": "Beaches"
+  },
+  {
+    "id": "2",
+    "name": "Alpine Chalet Retreat",
+    "image": "https://cdn.pixabay.com/photo/2018/02/20/13/19/swiss-3167616_1280.jpg",
+    "description": "Experience the breathtaking beauty of the Alps from your cozy chalet, surrounded by snow-capped peaks and charming villages.",
+    "rating": 4.5,
+    "price": "120",
+    "duration": "4",
+    "location": "Switzerland",
+    "category": "Mountains"
+  },
+  {
+    "id": "3",
+    "name": "Urban Explorer's Dream",
+    "image": "https://cdn.pixabay.com/photo/2015/09/08/02/33/swiss-929443_1280.jpg",
+    "description": "Immerse yourself in the vibrant energy of the city with bustling streets, iconic landmarks, and endless cultural experiences.",
+    "rating": 4.7,
+    "price": "140",
+    "duration": "2",
+    "location": "USA",
+    "category": "Cities"
+  },
+  {
+    "id": "4",
+    "name": "Enchanted Forest Retreat",
+    "image": "https://cdn.pixabay.com/photo/2019/10/27/12/27/czech-republic-4581602_1280.jpg",
+    "description": "Find serenity in the heart of nature with towering trees, hidden waterfalls, and enchanting wildlife in this magical forest retreat.",
+    "rating": 4.6,
+    "price": "180",
+    "duration": "5",
+    "location": "USA",
+    "category": "Forests"
+  },
+  {
+    "id": "5",
+    "name": "Tranquil Lakeside Haven",
+    "image": "https://cdn.pixabay.com/photo/2019/06/01/03/45/alpine-lake-4243396_1280.jpg",
+    "description": "Relax and rejuvenate by the tranquil lakeside, surrounded by stunning scenery and peaceful serenity.",
+    "rating": 4.9,
+    "price": "120",
+    "duration": "3",
+    "location": "England",
+    "category": "Lakes"
+  },
+  {
+    "id": "6",
+    "name": "Sandy Shores Beach Resort",
+    "image": "https://cdn.pixabay.com/photo/2018/07/29/10/02/maldives-3569759_1280.jpg",
+    "description": "Indulge in the ultimate beachfront luxury with pristine sands, crystal-clear waters, and world-class amenities.",
+    "rating": 4.8,
+    "price": "140",
+    "duration": "2",
+    "location": "Maldives",
+    "category": "Beaches"
+  },
+  {
+    "id": "7",
+    "name": "Majestic Mountain Lodge",
+    "image": "https://cdn.pixabay.com/photo/2024/01/07/10/59/mountains-8492823_1280.jpg",
+    "description": "Unwind in the lap of luxury amidst majestic mountain peaks, alpine meadows, and breathtaking vistas.",
+    "rating": 4.7,
+    "price": "100",
+    "duration": "7",
+    "location": "Canada",
+    "category": "Mountains"
+  },
+  {
+    "id": "8",
+    "name": "Metropolitan Marvels",
+    "image": "https://cdn.pixabay.com/photo/2017/03/29/15/18/tianjin-2185510_1280.jpg",
+    "description": "Discover the cultural richness and architectural wonders of bustling metropolises around the globe.",
+    "rating": 4.6,
+    "price": "170",
+    "duration": "3",
+    "location": "Japan",
+    "category": "Cities"
+  },
+  {
+    "id": "9",
+    "name": "Mystical Forest Sanctuary",
+    "image": "https://cdn.pixabay.com/photo/2017/10/01/16/48/sicily-2806142_1280.jpg",
+    "description": "Embark on a journey through ancient forests, mystical ruins, and hidden wonders in this enchanted sanctuary.",
+    "rating": 4.9,
+    "price": "80",
+    "duration": "2",
+    "location": "Brazil",
+    "category": "Forests"
+  },
+  {
+    "id": "10",
+    "name": "Serene Lake Retreat",
+    "image": "https://cdn.pixabay.com/photo/2016/09/04/20/09/mountains-1645078_1280.jpg",
+    "description": "Escape the hustle and bustle of city life and immerse yourself in the serene beauty of lakeside living.",
+    "rating": 4.5,
+    "price": "120",
+    "duration": "3",
+    "location": "USA",
+    "category": "Lakes"
+  },
+  {
+    "id": "11",
+    "name": "Golden Sands Beach Resort",
+    "image": "https://cdn.pixabay.com/photo/2019/07/01/19/20/sunset-4310739_1280.jpg",
+    "description": "Experience paradise on earth with golden sands, azure waters, and luxurious beachfront accommodations.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Fiji",
+    "category": "Beaches"
+  },
+  {
+    "id": "12",
+    "name": "Alpine Adventure Lodge",
+    "image": "https://cdn.pixabay.com/photo/2019/08/27/22/23/mountains-4435423_1280.jpg",
+    "description": "Embark on an unforgettable alpine adventure with thrilling outdoor activities and cozy lodge accommodations.",
+    "rating": 4.6,
+    "price": "120",
+    "duration": "3",
+    "location": "Italy",
+    "category": "Mountains"
+  },
+  {
+    "id": "13",
+    "name": "Cultural Capitals",
+    "image": "https://cdn.pixabay.com/photo/2021/01/13/04/49/vietnam-5913257_1280.jpg",
+    "description": "Explore the vibrant tapestry of culture, history, and art in the world's most captivating cultural capitals.",
+    "rating": 4.7,
+    "price": "130",
+    "duration": "5",
+    "location": "France",
+    "category": "Cities"
+  },
+  {
+    "id": "14",
+    "name": "Enchanted Grove",
+    "image": "https://cdn.pixabay.com/photo/2018/12/18/02/20/woods-3881642_1280.jpg",
+    "description": "Step into a realm of enchantment and wonder in this mystical grove filled with ancient trees and magical creatures.",
+    "rating": 4.9,
+    "price": "150",
+    "duration": "3",
+    "location": "Germany",
+    "category": "Forests"
+  },
+  {
+    "id": "15",
+    "name": "Tranquil Mountain Hideaway",
+    "image": "https://cdn.pixabay.com/photo/2020/03/16/02/30/mountain-4935486_1280.jpg",
+    "description": "Find solace and tranquility amidst towering peaks and pristine wilderness in this secluded mountain hideaway.",
+    "rating": 4.8,
+    "price": "80",
+    "duration": "5",
+    "location": "Canada",
+    "category": "Mountains"
+  },
+  {
+    "id": "16",
+    "name": "Seaside Sanctuary",
+    "image": "https://cdn.pixabay.com/photo/2017/10/17/20/59/sunset-2862133_1280.jpg",
+    "description": "Escape to a serene seaside sanctuary with breathtaking ocean views, pristine beaches, and luxurious accommodations.",
+    "rating": 4.7,
+    "price": "100",
+    "duration": "3",
+    "location": "Italy",
+    "category": "Beaches"
+  },
+  {
+    "id": "17",
+    "name": "Alpine Lakeside Lodge",
+    "image": "https://cdn.pixabay.com/photo/2018/12/11/21/38/tasmania-3869684_1280.jpg",
+    "description": "Unwind by the tranquil shores of an alpine lake, surrounded by majestic peaks and pristine nature.",
+    "rating": 4.6,
+    "price": "100",
+    "duration": "3",
+    "location": "Canada",
+    "category": "Lakes"
+  },
+  {
+    "id": "18",
+    "name": "Urban Oasis",
+    "image": "https://cdn.pixabay.com/photo/2018/04/19/07/07/nature-3332461_1280.jpg",
+    "description": "Discover a peaceful oasis amidst the bustling cityscape, where lush gardens and tranquil ponds provide respite.",
+    "rating": 4.8,
+    "price": "90",
+    "duration": "3",
+    "location": "Singapore",
+    "category": "Cities"
+  },
+  {
+    "id": "19",
+    "name": "Whispering Woods Retreat",
+    "image": "https://cdn.pixabay.com/photo/2018/06/28/10/08/charity-3503500_1280.jpg",
+    "description": "Find solace in the tranquil embrace of whispering woods, where ancient trees and hidden streams beckon the soul.",
+    "rating": 4.9,
+    "price": "140",
+    "duration": "3",
+    "location": "USA",
+    "category": "Forests"
+  },
+  {
+    "id": "20",
+    "name": "Sapphire Shores Beach Resort",
+    "image": "https://cdn.pixabay.com/photo/2018/07/29/10/02/maldives-3569759_1280.jpg",
+    "description": "Experience the epitome of luxury beachfront living with sapphire waters, pristine sands, and world-class amenities.",
+    "rating": 4.7,
+    "price": "150",
+    "duration": "3",
+    "location": "Bahamas",
+    "category": "Beaches"
+  }
+]
