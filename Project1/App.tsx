@@ -10,7 +10,7 @@ import {Text, View} from 'react-native';
 function App() {
   return (
     <View>
-      <Text> Hello world </Text>
+      <Text style={{fontFamily: 'MapoFlowerIsland'}}> 마포꽃섬 폰트 </Text>
     </View>
   );
 }
